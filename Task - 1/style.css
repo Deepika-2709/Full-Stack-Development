@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px;
+    background: purple;
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    background: white;
+    border: none;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: black;
+    color: white;
+}
